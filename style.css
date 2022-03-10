@@ -6,13 +6,18 @@
 body {
   background-color: salmon;
   font-family: 'Smooch Sans', sans-serif;
-  color: #fff;
+  color: #000;
   display: flex;
   justify-content: center;
 }
 
-header {
-  font-size: 7vw;
+h1 {
+  font-size: 8rem;
   letter-spacing: 5px;
-  text-shadow: 4px 2px 9px #5d7c44;
+  text-shadow: 4px 2px 9px #5d6b52;
+}
+
+ul {
+  font-size: 3rem;
+  list-style-type: circle;
 }
