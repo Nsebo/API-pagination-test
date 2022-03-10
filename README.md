@@ -1,2 +1,3 @@
 # API-pagination-test
-API-pagination
+
+pokemon API using pagination
